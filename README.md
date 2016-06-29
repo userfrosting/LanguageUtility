@@ -4,7 +4,7 @@ This is a quick toolkit to view which languages are missing messages
 # Results
 At time of deployment, this is the resultset from the program:
 
-en_US.php (These are presumed to be retired but still present in other language files)
+en_US.php (These are presumed to be retired but are still present in other language files)
 * Missing ACCOUNT_SPECIFY_USERNAME_OR_EMAIL
 * Missing ACCOUNT_EMAIL_USER_OR_PASS_INVALID
 * Missing FORGOTPASS_NEW_PASS_EMAIL

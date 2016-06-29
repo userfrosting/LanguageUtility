@@ -38,7 +38,7 @@ foreach ($langs as $langName => $langArray) {
     }
     foreach ($messages as $message) {
         if (!isset($langArray[$message])) {
-            $out .= 'Missing ' . $message . PHP_EOL;
+            $out .= '* Missing ' . $message . PHP_EOL;
         }
     }
     $out .= PHP_EOL;
