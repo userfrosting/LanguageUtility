@@ -1,5 +1,5 @@
 # LanguageUtility
-This is a quick toolkit to view which languages are * Missing messages
+This is a quick toolkit to view which languages are missing messages
 
 # Results
 At time of deployment, this is the resultset from the program:
